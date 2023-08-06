@@ -21,4 +21,8 @@ zone3: us-east-2c
 
 state: present
 
+#Bastion vars
+bastion_ami: ami-098dd3a86ea110896 # Amazon Linux-2 AMI-ID from us-east-2 region
+MYIP: 82.137.32.178/32
+keyName: vprofile-key
 
