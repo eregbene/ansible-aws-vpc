@@ -17,7 +17,7 @@
       ec2_key:
         name: vprokey
         region: "{{region}}"
-      register: name:vprokey_out
+      register: vprokey_out
 
     - name: Save private key into file loginkey_vpro.pem
       copy:
