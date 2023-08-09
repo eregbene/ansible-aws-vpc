@@ -12,7 +12,6 @@ natgw1id: nat-045ee8839a92ce3cc
 privRT1id: rtb-0a5164abc6f960be4
 natgw3id: nat-0e3a0637ef099a845
 privRT3id: rtb-0ab35d3232306a1f0
-BastionSGid:
 # BEGIN ANSIBLE MANAGED BLOCK
 BastionSGid: sg-017106354b565aebd
 # END ANSIBLE MANAGED BLOCK
